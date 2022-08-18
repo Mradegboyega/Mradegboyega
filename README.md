@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mradegboyega
-- 👀 I’m interested in Fullstack Development 
-- 🌱 I’m currently learning FrontEnd Development 
-- 💞️ I’m looking to collaborate on FrontEnd development (html, css, JavaScript)
+- 👀 I’m interested in Backend Development 
+- 🌱 I’m currently learning Basic FrontEnd Development 
+- 💞️ I’m looking to collaborate on FrontEnd & Backend Development (HTML, CSS, JavaScript, Python(Flask & FastAPI))
 - 📫 How to reach me a.adegboyega11@gmail.com
 
 <!---
