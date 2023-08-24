@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mradegboyega
 - 👀 I’m interested in Backend Development & DevOps/SRE
-- 🌱 I’m currently learning Basic FrontEnd Development 
-- 💞️ I’m looking to collaborate on Backend Development & DevOps/SRE (HTML, CSS, JavaScript, Python(Flask))
+- 💞️ I’m looking to collaborate on Backend Development & DevOps/SRE (TypeScript, JavaScript, Python(Flask), C, Golang, Java)
 - 📫 How to reach me a.adegboyega@purledge.com
 
 <!---
