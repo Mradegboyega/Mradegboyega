@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mradegboyega
 - 👀 I’m interested in Backend Development & DevOps/SRE
 - 💞️ I’m looking to collaborate on Backend Development & DevOps/SRE (TypeScript, Python, C, Golang, Java)
-- 📫 How to reach me a.adegboyega11@gmail.com
+- 📫 How to reach me contact@adegboyega.com.ng
 
 <!---
 Mradegboyega/Mradegboyega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
