@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mradegboyega
-- 👀 I’m interested in Backend Development & DevOps/SRE
-- 💞️ I’m looking to collaborate on Backend Development & DevOps/SRE (TypeScript, Python, C, Golang, Java)
+- 💞️ I’m looking to collaborate on Backend Development & DevOps /System Admin (Python, C, Java)
 - 📫 How to reach me contact@adegboyega.com.ng
 
 <!---
